@@ -1,0 +1,5 @@
+Log file created at: 2023/11/06 16:03:37
+Running on machine: XLZC-0155
+Running duration (h:mm:ss): 0:00:06
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20231106 16:03:37.699462 10292 InfraredScanSDK.cpp:280] InfraredScanSDK::sn3d_close begin
