@@ -102,3 +102,10 @@ Major update：
 version：4.0.7
 Major update：
 1.Solve the problem that the scan interface does not return data properly, The Start_Scan interface returns -1 when reconstruction fails and 0 when reconstruction succeeds
+
+20231114 version:
+version：4.0.8
+Major update：
+1.Solve the problem of being unable to continuously track when clicking the track button
+Important hint:
+The marker_tracker and getMarker interfaces cannot be used. Multi-mode and track-mode only need to use Start_Scan
