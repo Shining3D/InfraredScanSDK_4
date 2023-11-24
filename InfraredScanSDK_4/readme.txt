@@ -109,3 +109,8 @@ Major update：
 1.Solve the problem of being unable to continuously track when clicking the track button
 Important hint:
 The marker_tracker and getMarker interfaces cannot be used. Multi-mode and track-mode only need to use Start_Scan
+
+20231124 version:
+version：4.0.9
+Major update：
+Fixed the problem of staying offline
