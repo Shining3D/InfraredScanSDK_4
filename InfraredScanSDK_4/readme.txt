@@ -114,3 +114,8 @@ The marker_tracker and getMarker interfaces cannot be used. Multi-mode and track
 version：4.0.9
 Major update：
 Fixed the problem of staying offline
+
+20231204 version:
+version：4.0.10
+Major update：
+The Start_Scan interface returns 0 when the execution is successful
