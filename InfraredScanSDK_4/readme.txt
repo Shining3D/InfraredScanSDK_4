@@ -119,3 +119,9 @@ Fixed the problem of staying offline
 version：4.0.10
 Major update：
 The Start_Scan interface returns 0 when the execution is successful
+
+20231220 version:
+version：4.0.11
+Major update：
+1.Optimized the method for obtaining data on the Start_Scan interface
+2.checkcamerastatus interface is Optimized
