@@ -125,3 +125,16 @@ version：4.0.11
 Major update：
 1.Optimized the method for obtaining data on the Start_Scan interface
 2.checkcamerastatus interface is Optimized
+
+20231225 version:
+version：4.0.12
+Major update：
+1.Resolved the reconnection failure caused by 4.0.11 modification
+2.Regarding the scanning of multiphase and tracker modes, 
+data will not be automatically scanned after switching modes. 
+Only when the scan button is clicked in multiphase mode, 
+the point cloud and tracking mark points will be rebuilt. 
+Or when the tracker button is clicked in tracker mode, 
+the mark points will be tracked. 
+The reason for the modification here is that the tracker button and the scan button always do some same things and need to be distinguished. 
+Of course, these modifications will not affect your SDK integration, because it is a modification of our demo
