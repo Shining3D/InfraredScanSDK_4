@@ -138,3 +138,8 @@ Or when the tracker button is clicked in tracker mode,
 the mark points will be tracked. 
 The reason for the modification here is that the tracker button and the scan button always do some same things and need to be distinguished. 
 Of course, these modifications will not affect your SDK integration, because it is a modification of our demo
+
+20231226 version:
+version：4.0.12 Incremental update
+Major update：
+1.Solve the problem of tracking lost data without updating
