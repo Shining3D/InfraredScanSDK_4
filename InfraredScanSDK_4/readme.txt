@@ -143,3 +143,8 @@ Of course, these modifications will not affect your SDK integration, because it 
 version：4.0.12 Incremental update
 Major update：
 1.Solve the problem of tracking lost data without updating
+
+20240102 version:
+version：4.0.13
+Major update：
+1.Solve the problem of incomplete data caused by invalid point elimination in point cloud
