@@ -148,3 +148,8 @@ Major update：
 version：4.0.13
 Major update：
 1.Solve the problem of incomplete data caused by invalid point elimination in point cloud
+
+20240125 version:
+version：4.0.14
+Major update：
+1.Solve the problem of occasionally being unable to reconnect
