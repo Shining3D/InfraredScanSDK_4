@@ -153,3 +153,9 @@ Major update：
 version：4.0.14
 Major update：
 1.Solve the problem of occasionally being unable to reconnect
+
+20240126 version:
+version：4.0.15
+Major update：
+1.Solve the problem of getting camera status pop-up DOS window
+2.Solve the crash problem caused by some memory leaks
