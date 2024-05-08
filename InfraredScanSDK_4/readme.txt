@@ -159,3 +159,8 @@ version：4.0.15
 Major update：
 1.Solve the problem of getting camera status pop-up DOS window
 2.Solve the crash problem caused by some memory leaks
+
+20240508 version:
+version：4.0.16
+1.Solve the crash problem caused by abnormal CPU usage (prime95 startup environment test)
+2.Solve the problem of generating empty results without scanning data due to quick switch button
