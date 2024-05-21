@@ -164,3 +164,7 @@ Major update：
 version：4.0.16
 1.Solve the crash problem caused by abnormal CPU usage (prime95 startup environment test)
 2.Solve the problem of generating empty results without scanning data due to quick switch button
+
+20240508 version:
+version：4.0.17
+1.Solve the problem of occasional scanning data errors
