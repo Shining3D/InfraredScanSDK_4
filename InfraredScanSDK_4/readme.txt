@@ -168,3 +168,7 @@ version：4.0.16
 20240508 version:
 version：4.0.17
 1.Solve the problem of occasional scanning data errors
+
+20240531 version:
+version：4.0.18
+1.The demo shows the validity period of the dongle
